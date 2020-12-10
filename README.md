@@ -1,7 +1,7 @@
 # Parkinglot
 #  Create a .NET console application using Visual Studio
 
-his tutorial shows how to create and run a .NET console application in Visual Studio 2019.
+This tutorial shows how to create and run a .NET console application in Visual Studio 2019.
 
 
 # Prerequisites
